@@ -8,7 +8,7 @@
         text-align: center;
         font-size: 20px;
         font-weight: bold;
-        color: #1e8ece;
+        color: #42564f;
         padding:10px 20px;
         padding-top:2%;
        height:65px;
@@ -51,19 +51,19 @@
 }
 
 .navbar{
-    height:0px;
+    height:0%;
     padding:0%;
 
 }
 .navbar-brand img{
-    height: 150px;
-    width:150px;
+    height: 50px;
+    width:50px;
     padding-top: 2px;
     padding: 1px 5px;
     top:8px;
      position: absolute;
     top: -50px;
-    margin-left: -90;
+    margin-left: -90px;
 }
 
 .navbar li{
